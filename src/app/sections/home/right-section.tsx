@@ -4,7 +4,7 @@ import TopRightSection from "./top-right-section";
 
 export default function RightSection() {
   return (
-    <div className="w-6/10 bg-blue-300">
+    <div className="w-6/10 bg-white-300">
       <TopRightSection />
       <MiddleRightSection />
       <BottomRightSection />
