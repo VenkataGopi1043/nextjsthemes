@@ -4,7 +4,7 @@ export default function MiddleSection() {
   return (
     <section className="bg-white-200 min-h-screen p-10">
       {/* Dashboard Header */}
-      <h1 className="text-xl font-bold text-blue-700 mb-4">DashBoard</h1>
+      <h1 className="text-xl font-bold text-blue-600 mb-4">DashBoard</h1>
 
       {/* Bulletin Board Title */}
       <div className="flex justify-between items-centre mb-4">

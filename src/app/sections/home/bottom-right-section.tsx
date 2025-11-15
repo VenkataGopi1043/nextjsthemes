@@ -6,10 +6,10 @@ export default function BottomRightSection() {
       {/* Top Info Row: Travel Time & Weather (Plain Text) */}
       <div className="flex justify-between w-full">
         <div className="text-sm text-gray-800 p-4">
-          <p className="font-semibold ">travel Time</p>
+          <p className="font-semibold cursor-pointer hover:text-blue-600 ">Travel Time</p>
         </div>
         <div className="text-sm text-gray-800 text-right mr-90 ">
-          <p className="font-semibold text-black-800  p-4">Todays Weather</p>
+          <p className="font-semibold text-black-800  p-4 cursor-pointer hover:text-blue-600">Todays Weather</p>
         </div>
       </div>
 

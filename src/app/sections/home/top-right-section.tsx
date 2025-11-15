@@ -6,11 +6,11 @@ export default function TopRightSection() {
       {/* Header Section */}
       <div className="flex items-center justify-between bg-bule-300 p-2  rounded">
         <span className="text-lg font-semibold cursor-pointer hover:text-blue-600">
-          Shift Mointer
+          Shift Monitor
         </span>
-        <div className="flex space-x-3">
-          <FaSearch className="text-xl  text-blue-600" />
-          <FaHome className="text-xl text-blue-600" />
+        <div className="flex space-x-5">
+          <FaSearch className="text-xl text-blue-600"/>
+          <FaHome className="text-xl text-blue-800"/>
         </div>
       </div>
 
@@ -23,7 +23,7 @@ export default function TopRightSection() {
 
       {/* View Section */}
       <div className="flex justify-end bg-white-500 p-1 rounded">
-        <button className="bg-white px-4 py-2  text-blue-500 rounded shadow text-sm font-medium border border-gray-200 cursor-pointer hover:text-red-500">
+        <button className="bg-white px-4 py-2 text-blue-600 rounded shadow text-sm font-medium border border-gray-200 cursor-pointer hover:text-yellow-500">
           Listview
         </button>
       </div>
