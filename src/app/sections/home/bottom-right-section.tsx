@@ -8,8 +8,8 @@ export default function BottomRightSection() {
         <div className="text-sm text-gray-800 p-4">
           <p className="font-semibold cursor-pointer hover:text-blue-600 ">Travel Time</p>
         </div>
-        <div className="text-sm text-gray-800 text-right mr-90 ">
-          <p className="font-semibold text-black-800  p-4 cursor-pointer hover:text-blue-600">Todays Weather</p>
+        <div className="text-sm text-gray-800 text-right mr-90">
+          <p className="font-semibold text-black-800 p-4 cursor-pointer hover:text-blue-600 ">Todays Weather</p>
         </div>
       </div>
 
@@ -21,7 +21,7 @@ export default function BottomRightSection() {
           <span className="text-gray-700 text-xl">🚴‍♂️</span>
           <span className="text-gray-700 text-xl">🚶‍♂️</span>
         </div>
-        <button className="bg-white px-4 py-2 mr-100 rounded shadow text-sm font-medium border border-gray-300  cursor-pointer hover:text-blue-600">
+        <button className="bg-white px-4 py-2 mr-95 rounded shadow text-sm font-medium border border-gray-300  cursor-pointer hover:text-blue-600">
           Pending
         </button>
       </div>
@@ -56,7 +56,7 @@ export default function BottomRightSection() {
             />
           </div>
           <div>
-            <p className="text-xl font-semibold  text-gray-500">Pretty Sunny</p>
+            <p className="teext-xl font-semibold text-gray-500">Pretty Sunny</p>
 
             <p className="text-xl font-semibold text-black-800">27°C</p>
             <p className="text-xs text-gray-400">Clear</p>

@@ -10,13 +10,13 @@ export default function TopRightSection() {
         </span>
         <div className="flex space-x-5">
           <FaSearch className="text-xl text-blue-600"/>
-          <FaHome className="text-xl text-blue-800"/>
+          <FaHome className="text-xl text-blue-600"/>
         </div>
       </div>
 
       {/* Status Section */}
-      <div className=" bg-white-400 p-1 rounded">
-        <button className="bg-white px-4 py-2 cursor-pointer hover:text-blue-700 rounded shadow text-sm font-medium border border-gray-200 ">
+      <div className=" bg-white-400 p-4 rounded">
+        <button className="bg-white px-4 py-2  cursor-pointer hover:text-blue-700 rounded shadow text-sm font-medium border border-gray-200 ">
           Pending
         </button>
       </div>

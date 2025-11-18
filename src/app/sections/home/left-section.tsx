@@ -36,35 +36,37 @@ export default function LeftSection() {
           </li>
 
           <li>
-            <a className="flex items-centre gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
+            <a className="flex items-center gap-3 px-3 py-2 text-gray-300 roiunded-lg cursor-pointer hover:text-blue-600">
               Calender
             </a>
           </li>
           <li>
-            <a className="flex items-centre gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600 ">
+            <a className="flex items-center gap-3 px-3 py-2 text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
               Tickets
             </a>
           </li>
           <li>
-            <a className="flex itmes-centre gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
+            <a className="flex items-center gap-3 px-3 py-2 text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
               Contants
             </a>
           </li>
           <li>
-            <a className="flex items-centre gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
+            <a className="flex itmes-center gap-3 px-3 py-2 text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
               Tools
             </a>
           </li>
           <li>
-            <a className="flex items-centre gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
+            <a className="flex items-center gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600 ">
               Seetings
             </a>
           </li>
           <li>
-            <a className="Flex items-centre gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
+            <a className="Flex items-center gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
               Time
             </a>
-            <a className="flex items-centre gap-3 px-3 py-2  text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
+          </li>
+          <li>
+            <a className="flex items-center gap-3 px-3 py-2 text-gray-300 rounded-lg cursor-pointer hover:text-blue-600">
               ListView
             </a>
           </li>
